@@ -1,0 +1,14 @@
+.sub-text {
+    color: #5cab06;
+    font-style: italic;
+}
+.page-one {
+    position: relative;
+    padding: 60px;
+    background-color: #f5f5f5;
+}
+.title-page {
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: x-large;
+}
